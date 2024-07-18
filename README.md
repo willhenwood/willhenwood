@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willhenwood
 - 👀 I’m interested in aeroplanes and flight simulation.
-- 🌱 I’m currently learning everything and anything - I used to do law, then I tried to be a pilot but I couldn't pass the medical exam.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to become an electrician - I used to do law, then I tried to be a pilot but I couldn't pass the medical exam.
+- 💞️ I’m looking to collaborate on grid decarbonisation and how to contribute to the UK's path to Net Zero.
 - 📫 william.henwood@gmail.com
 
 <!---
